@@ -23,12 +23,21 @@ How should resources be allocated based on regional/product performance?
 🔷 Key Technical Contributions
 
 Integrated three-statement financial model (I/S, B/S, drivers)
+
 DCF valuation with WACC discounting and terminal value
+
 Monte Carlo simulation (10K+ iterations) for risk-adjusted forecasting
+
 Cohort retention tracking across 24-month periods
+
 RFM customer segmentation for targeted marketing
+
 12 dynamic KPI cards with YoY variance and budget attainment
+
 Period controls (FY/Q/H) and comparison modes (PY/PP/Budget)
+
 Regional/product performance tables with growth and share metrics
+
 Dark professional theme for board presentations
+
 1,097 formulas validated with zero calculation errors
