@@ -2,9 +2,8 @@
 
 https://github.com/user-attachments/assets/067826d7-4cb6-4731-b118-54a0ca7e6c82
 
-<img width="1280" height="823" alt="1770167178313" src="https://github.com/user-attachments/assets/866218db-3d0b-4e23-9f15-d2a6d5d44959" />
-
 Financial Modeling & Multi-Framework Analytics Platform | Excel & AI-Assisted Development
+
 Built an end-to-end business intelligence platform consolidating financial statements, customer analytics, and advanced modeling into a C-suite dashboard. Architected 10 analytical frameworks—three-statement financials, DCF valuation, Monte Carlo simulation (10,000+ scenarios), cohort retention analysis, RFM segmentation, A/B testing, regression analysis, and scenario planning. Implemented 1,097 formulas across 10 sheets with zero errors, enabling same-day reporting versus 5-day cycles. Leveraged AI-assisted development for accelerated execution while owning business logic, data architecture, and validation.
 
 🔷 What This Dashboard Answers
